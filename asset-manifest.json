@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/christeenae/Todo-list-react-app/static/css/main.7a60f515.css",
-    "main.js": "/christeenae/Todo-list-react-app/static/js/main.1166d932.js",
-    "static/js/787.b05dc266.chunk.js": "/christeenae/Todo-list-react-app/static/js/787.b05dc266.chunk.js",
-    "index.html": "/christeenae/Todo-list-react-app/index.html",
-    "main.7a60f515.css.map": "/christeenae/Todo-list-react-app/static/css/main.7a60f515.css.map",
-    "main.1166d932.js.map": "/christeenae/Todo-list-react-app/static/js/main.1166d932.js.map",
-    "787.b05dc266.chunk.js.map": "/christeenae/Todo-list-react-app/static/js/787.b05dc266.chunk.js.map"
+    "main.css": "/Todo-list-react-app/static/css/main.7a60f515.css",
+    "main.js": "/Todo-list-react-app/static/js/main.fcc35f22.js",
+    "static/js/787.b05dc266.chunk.js": "/Todo-list-react-app/static/js/787.b05dc266.chunk.js",
+    "index.html": "/Todo-list-react-app/index.html",
+    "main.7a60f515.css.map": "/Todo-list-react-app/static/css/main.7a60f515.css.map",
+    "main.fcc35f22.js.map": "/Todo-list-react-app/static/js/main.fcc35f22.js.map",
+    "787.b05dc266.chunk.js.map": "/Todo-list-react-app/static/js/787.b05dc266.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a60f515.css",
-    "static/js/main.1166d932.js"
+    "static/js/main.fcc35f22.js"
   ]
 }
